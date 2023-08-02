@@ -40,13 +40,7 @@
     "sweetalert2": "^11.1.5",
     "tslib": "^2.2.0",
     "xlsx": "^0.17.5",
-    "zone.js": "~0.11.4",
-    "semver":"7.5.2",
-    "word-wrap": ">=1.2.4",
-    "json5": "2.2.2",
-    "ansi-regex": "3.0.1",
-    "minimatch":"3.0.5"
-
+    "zone.js": "~0.11.4"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~12.1.4",
